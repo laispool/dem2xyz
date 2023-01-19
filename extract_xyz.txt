@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////
-///// Laís Pool  (lais.pool@gmail.com)                /////                        %%%%%
-///// Florianopolis, 16/01/2023                       /////              %%%%%
-///// Code Editor - Earth Engine                      /////                             %%%%%
+///// Laís Pool  (lais.pool@gmail.com)                /////                        
+///// Florianopolis, 16/01/2023                       /////              
+///// Code Editor - Earth Engine                      /////                             
 ///// A code to extract XYZ (points) from Digital     /////
 ///// Elevation Model (raster)                        /////
 ///////////////////////////////////////////////////////////
